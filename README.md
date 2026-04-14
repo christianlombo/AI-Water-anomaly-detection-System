@@ -52,7 +52,7 @@ cd AI-Water-anomaly-detection-System
 ```
 ### Step 2: Install dependencies:
 ```bash
-pip install numpy pandas matplotlib seaborn
+pip install numpy pandas matplotlib 
 ```
 ---
 
