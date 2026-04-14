@@ -56,7 +56,7 @@ pip install numpy pandas matplotlib
 ```
 ---
 
-### Running the project
+## Running the project
 
 To train the model on the normal baseline and scan the test data for anomalies, run:
 
@@ -173,7 +173,7 @@ This allows us to identify the impact of a detected event across different pumps
 What is being observed is that if all pumps show red dots simultaneously, the issue is system-wide (e.g., a major burst or power outage). If only one pump shows red dots, the fault is localized to that specific branch.
 
 ---
-## Monthly Anomaly Count
+## 4. Monthly Anomaly Count
 <img width="1335" height="735" alt="plot4_monthly_anomalies" src="https://github.com/user-attachments/assets/50bf2752-c30c-4ac6-8df3-34c07780515d" />
 
 A strategic view used for municipal maintenance and budgeting.
