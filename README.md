@@ -69,7 +69,7 @@ After execution, a summary will be printed to the terminal, and all visual repor
 
 ## Concepts explained
 
-## 1.Supervised vs Unsupervised vs Semi-Supervised learning
+## 1. Supervised vs Unsupervised vs Semi-Supervised learning
 
 In **supervised learning**, you give the algorithm labelled examples: "this is a leak, this is not a leak." The algorithm learns the difference.
  
@@ -84,7 +84,7 @@ This is important for water networks because:
 - 
 ---
 
-## 2.What is an Isolation Forest
+## 2. What is an Isolation Forest
 
 ___The purpose Isolation Forest is: Is this data point easy or hard to isolate___
 
@@ -110,7 +110,7 @@ Long path = NORMAL                    Short path = ANOMALY
  
 The algorithm builds many random trees. Each tree randomly:
 1. Picks a feature (e.g. flow rate)
-2. Picks a random split value (e.g. 5.3 LPS)
+2. Picks a random split value 
 3. Separates points: above vs below the split
 4. Repeats until each point is alone
  
