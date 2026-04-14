@@ -13,8 +13,6 @@ This project implements an **AI-powered anomaly detection system** for water inf
 6. [Concepts Explained](#concepts-explained)
 7. [Results](#results)
 8. [What I Learned](#what-i-learned)
-9. [Future Improvements](#future-improvements)
-10. [References](#references)
 
 ---
 
